@@ -1,5 +1,5 @@
 # Cybersecurity
-Cybersecurity materials for leaning and education.
+Cybersecurity materials for learning and education.
 
 ## Wordlists
 Lists of common words used for testing passwords strength.
